@@ -18,8 +18,8 @@ Software Engineer with more than 3 years of experience in diverse domains in ret
 ## Education
 - BSc.(Hons) in Engineering | University of Moratuwa, Sri Lanka (Jan 2017 - July 2021)
 
-## Projects
-### Praisal - Resource Management Portal
+# Projects
+## Praisal - Resource Management Portal
 _Associated with Calcey_
 
 The project aims to transform resource management for Calcey and beyond through the development of a comprehensive tool tailored to the resource management team's requirements. This platform, designed for seamless allocation of human resources based on project needs, addresses the limitations of the current spreadsheet-based system. Featuring a user-friendly interface and robust functionality, it empowers project managers, directors, HR personnel, and IT administrators to efficiently manage resource requests, fulfillments, and configurations. By streamlining processes and mitigating risks such as data corruption and performance issues, the platform aims to enhance productivity and decision-making capabilities while facilitating smart analytics-driven insights. Ultimately, the goal is to deliver a scalable solution benefiting Calcey internally and offering potential as a customizable product for external organizations seeking optimized resource allocation workflows.
@@ -33,7 +33,7 @@ The project aims to transform resource management for Calcey and beyond through 
 
 Technologies and tools: C#, .NET 6, EFCore, Dapper, PostgreSQL, GitLab, AWS EC2, Jira
 
-### Nelly.com
+## Nelly.com
 _Associated with Calcey_
 
 Nelly emerges as a prominent force in the Nordic e-commerce landscape, specializing in fashion and accessories tailored for women while also extending its reach to cater to men's fashion needs through Nellyman.com. Renowned for its comprehensive platform, Nelly boasts a sophisticated ecosystem comprising mobile applications, a versatile back office, and internal software. This expansive infrastructure seamlessly supports a diverse clientele across multiple countries and languages. Underpinning its technical prowess, Nelly employs a distributed services-based system, with its backbone formed by backend APIs such as Nellyweb and various auxiliary services like the product catalog and services API. Additionally, the platform's persistence layer is fortified by a complex stored procedure-based querying system, underscoring Nelly's commitment to delivering an unparalleled shopping experience to its discerning customers.
@@ -46,7 +46,7 @@ Nelly emerges as a prominent force in the Nordic e-commerce landscape, specializ
 
 Technologies and tools: C#, .NET Core, Dapper, MSSQL, TypeScript, Svelte, GitHub, YouTrack
 
-### AiSCOUT
+## AiSCOUT
 _Associated with Calcey_
 
 AiScout is a platform that connects aspiring football players with scouts. Players can create profiles with pictures, videos, game schedules, and statistics, and participate in challenges to showcase their skills. The app uses AI and statistical analysis to calculate player scores and features drills with augmented reality guidance. Identified talent is directed to junior teams in the British Premier League. Currently piloted with Chelsea and other top clubs.
@@ -57,7 +57,7 @@ AiScout is a platform that connects aspiring football players with scouts. Playe
 
 Technologies and tools: .NET Core, C#, EFCore,  Mudblazor, MSSQL, Python, AWS Lambda, S3, Redis, GitLab
 
-### Stanford GSB eLearning platform
+## Stanford GSB eLearning platform
 _Associated with Calcey_
 
 Stanford GSB eLearning platform is a digital platform that offers users worldwide access to videos, case studies, and learning resources, allowing them to study at their own pace promoting e-learning back in the early 2010s. The portal provides an interactive and immersive learning experience, with discussion forums and other features for individual reflection. 
