@@ -86,9 +86,9 @@ In the Enactor platform, a range of documents, such as system events, retail tra
 
 Technologies and tools: Java, Maven, MySQL, Enactor DevTools, Subversion, Jenkins, Cucumber, Docker, Apache Zookeeper
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Support QR code for device registration
+_Associated with Enactor_
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+In Enactor EM, an application is utilized for maintaining and registering new devices, such as POS machines and mobile POSs. Previously, device registration relied on IPs for device hostnames. However, due to new requirements necessitating the use of DNS URLs, the existing method of generating serial numbers based on IPs became obsolete. To address this challenge, a solution was devised to utilize QR codes instead of serial numbers for device registration. This change enables the passing of lengthy DNS URLs to thin clients via QR codes, simplifying the registration process.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+Technologies and tools: Java, Maven, MySQL, Enactor DevTools, Subversion, Jenkins, Cucumber
