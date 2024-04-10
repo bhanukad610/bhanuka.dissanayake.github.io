@@ -1,7 +1,3 @@
-# Software Engineer
-
-Software Engineer with more than 3 years of experience in diverse domains in retail, e-commerce, sports, and HRM across tech stacks including C#, .NET core, Python, Django, Java, and AWS with fair knowledge of frontend frameworks like React. Learning and adapting to any technology allows me to stay at the forefront of evolving tech stacks. Skilled in researching, designing, developing, maintaining software, and tackling complex problems. Well-versed in Agile and Kanban methodologies, contributing to efficient project management and successful delivery as a valuable team member. Got valid work rights in Australia. Am eager to advance my career and contribute expertise to craft impactful software.
-
 #### Technical Skills: C#, .NET, Python, Java, AWS
 
 ## Work Experience
