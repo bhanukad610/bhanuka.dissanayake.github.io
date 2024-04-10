@@ -1,9 +1,8 @@
 # Software Engineer
 
-Software Engineer with more than 3 years of experience in diverse domains in retail, e-commerce, sports, and HRM across tech stacks including C#, .NET core, Python, Django, Java, and AWS with fair knowledge of frontend frameworks like React. Learning and adapting to any technology allows me to stay at the forefront of evolving tech stacks.
-Skilled in researching, designing, developing, maintaining software, and tackling complex problems. Well-versed in Agile and Kanban methodologies, contributing to efficient project management and successful delivery as a valuable team member. Got valid work rights in Australia. Am eager to advance my career and contribute expertise to craft impactful software.
+Software Engineer with more than 3 years of experience in diverse domains in retail, e-commerce, sports, and HRM across tech stacks including C#, .NET core, Python, Django, Java, and AWS with fair knowledge of frontend frameworks like React. Learning and adapting to any technology allows me to stay at the forefront of evolving tech stacks. Skilled in researching, designing, developing, maintaining software, and tackling complex problems. Well-versed in Agile and Kanban methodologies, contributing to efficient project management and successful delivery as a valuable team member. Got valid work rights in Australia. Am eager to advance my career and contribute expertise to craft impactful software.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: C#, .NET, Python, Java, AWS
 
 ## Work Experience
 **Software Engineer @ Calcey Technologies (_April 2022 - present_)**
@@ -33,7 +32,17 @@ The project aims to transform resource management for Calcey and beyond through 
 
 Technologies and tools: C#, .NET 6, EFCore, Dapper, PostgreSQL, GitLab, AWS EC2, Jira
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Nelly.com
+
+Nelly emerges as a prominent force in the Nordic e-commerce landscape, specializing in fashion and accessories tailored for women while also extending its reach to cater to men's fashion needs through Nellyman.com. Renowned for its comprehensive platform, Nelly boasts a sophisticated ecosystem comprising mobile applications, a versatile back office, and internal software. This expansive infrastructure seamlessly supports a diverse clientele across multiple countries and languages. Underpinning its technical prowess, Nelly employs a distributed services-based system, with its backbone formed by backend APIs such as Nellyweb and various auxiliary services like the product catalog and services API. Additionally, the platform's persistence layer is fortified by a complex stored procedure-based querying system, underscoring Nelly's commitment to delivering an unparalleled shopping experience to its discerning customers.
+
+#### Contribution
+- Engaged in product maintenance of one of the Nordics' leading e-commerce platforms in fashion and accessories.
+- Worked on a distributed services-based system. Helped with the upkeep of multiple different APIs and services.
+- Troubleshooted, debugged, and fixed issues with a complex stored procedure-based querying system to increase performance and meet desired requirements.
+- Implemented a solution to protect outlet product prices, preventing automatic changes to full price due to late orders.
+
+Technologies and tools: C#, .NET Core, Dapper, MSSQL, TypeScript, Svelte, GitHub, YouTrack
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
