@@ -7,28 +7,11 @@
 
 ## Work Experience
 **Software Engineer @ Calcey Technologies (_April 2022 - present_)**
-Project Engagements, tasks & responsibilities.
-###Praisal - Resource Management Portal  (Dec 2023 - present)
-- Researched, designed, and developed the version 1.0 release of the Calcey Resource Management portal for resource, project, and client management.
-- Collaboratively involved in client engagements, facilitated requirement gatherings, and contributed to sprint planning, fostering efficient project execution.
-- Constructed core domain entities following Domain-Driven Design standards, fostering a more resilient, scalable, and maintainable system architecture.
-- Designed and developed RESTful APIs adhering to CQRS and clean architecture guidelines, leading to streamlined development, improved system scalability, and enhanced maintainability.
-- Engaged in API deployments, ensuring seamless integration and timely releases.
-- Stack -  C#, .NET 6, PostgreSQL, GitLab, AWS EC2, Jira
 
-Nelly.com (May 2023 - Nov 2023)
-- Engaged in product maintenance of one of the Nordics' leading e-commerce platforms in fashion and accessories.
-- Worked on a distributed services-based system. Helped with the upkeep of multiple different APIs and services.
-- Troubleshooted, debugged and fixed issues with a complex stored procedure-based querying system to increase performance and meet desired requirements.
-- Implemented a solution to protect outlet product prices, preventing automatic changes to full price due to late orders.
-- Stack -  C#, .NET Core, MSSQL, TypeScript, Svelte, GitHub, YouTrack
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+***Software Engineer @ Enactor Ltd (February 2021 - March  2022)**
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Praisal - Resource Management Porta
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
