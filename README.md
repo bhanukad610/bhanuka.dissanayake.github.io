@@ -7,8 +7,14 @@ Skilled in researching, designing, developing, maintaining software, and tacklin
 
 ## Work Experience
 **Software Engineer @ Calcey Technologies (_April 2022 - present_)**
+- Executes the full software development life cycle (SDLC) with ownership of assigned tasks/features.
+- Designs and develops software solutions using relevant tools, technologies, frameworks, and methodologies.
+- Contributed to projects (in the projects section) covering domains of e-commerce, sports, and HRM as an active team player.
 
 **Software Engineer @ Enactor Ltd (_February 2021 - March  2022_)**
+- Developed features (in the projects section) to improve the performance and reliability of the Enactor retail platform.
+- Contributed as a developer in the Customer Support & Development team, focusing on resolving customer-reported issues and bugs.
+- Automated functionalities within the Point of Sale application and APIs to enhance efficiency and streamline operations.
 
 ## Education
 - BSc.(Hons) in Engineering | University of Moratuwa, Sri Lanka (Jan 2017 - July 2021)
@@ -24,8 +30,8 @@ The project aims to transform resource management for Calcey and beyond through 
 - Constructed core domain entities following Domain-Driven Design standards, fostering a more resilient, scalable, and maintainable system architecture.
 - Designed and maintained APIs adhering to CQRS and clean architecture guidelines, leading to streamlined development, improved system scalability, and enhanced maintainability.
 - Engaged in API deployments, ensuring seamless integration and timely releases.
-##### Technologies and tools
-C#, .NET 6, EFCore, Dapper, PostgreSQL, GitLab, AWS EC2, Jira
+
+Technologies and tools: C#, .NET 6, EFCore, Dapper, PostgreSQL, GitLab, AWS EC2, Jira
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
