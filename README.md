@@ -1,4 +1,4 @@
-# Software Engineer | C#, .NET, Python, Java, AWS | 3 years experienced | BSc Eng (Hons)
+# Software Engineer
 
 Software Engineer with more than 3 years of experience in diverse domains in retail, e-commerce, sports, and HRM across tech stacks including C#, .NET core, Python, Django, Java, and AWS with fair knowledge of frontend frameworks like React. Learning and adapting to any technology allows me to stay at the forefront of evolving tech stacks.
 Skilled in researching, designing, developing, maintaining software, and tackling complex problems. Well-versed in Agile and Kanban methodologies, contributing to efficient project management and successful delivery as a valuable team member. Got valid work rights in Australia. Am eager to advance my career and contribute expertise to craft impactful software.
@@ -14,10 +14,16 @@ Skilled in researching, designing, developing, maintaining software, and tacklin
 - BSc.(Hons) in Engineering | University of Moratuwa, Sri Lanka (Jan 2017 - July 2021)
 
 ## Projects
-### Praisal - Resource Management Porta
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Praisal - Resource Management Portal
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The project aims to transform resource management for Calcey and beyond through the development of a comprehensive tool tailored to the resource management team's requirements. This platform, designed for seamless allocation of human resources based on project needs, addresses the limitations of the current spreadsheet-based system. Featuring a user-friendly interface and robust functionality, it empowers project managers, directors, HR personnel, and IT administrators to efficiently manage resource requests, fulfillments, and configurations. By streamlining processes and mitigating risks such as data corruption and performance issues, the platform aims to enhance productivity and decision-making capabilities while facilitating smart analytics-driven insights. Ultimately, the goal is to deliver a scalable solution benefiting Calcey internally and offering potential as a customizable product for external organizations seeking optimized resource allocation workflows.
+
+#### Contribution
+• Initiated and executed the research, design, and development of Calcey Resource Management Portal version 1.0.  
+• Engaged in initial research, designing, and development phases.
+• Constructed core domain entities following Domain-Driven Design standards, fostering a more resilient, scalable, and maintainable system architecture.
+• Designed and maintained APIs adhering to CQRS and clean architecture guidelines, leading to streamlined development, improved system scalability, and enhanced maintainability.
+• Engaged in API deployments, ensuring seamless integration and timely releases.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
