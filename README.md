@@ -1,14 +1,17 @@
 # Software Engineer | C#, .NET, Python, Java, AWS | 3 years experienced | BSc Eng (Hons)
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Software Engineer with more than 3 years of experience in diverse domains in retail, e-commerce, sports, and HRM across tech stacks including C#, .NET core, Python, Django, Java, and AWS with fair knowledge of frontend frameworks like React. Learning and adapting to any technology allows me to stay at the forefront of evolving tech stacks.
+Skilled in researching, designing, developing, maintaining software, and tackling complex problems. Well-versed in Agile and Kanban methodologies, contributing to efficient project management and successful delivery as a valuable team member. Got valid work rights in Australia. Am eager to advance my career and contribute expertise to craft impactful software.
 
-## Education
-- BSc.(Hons) in Engineering | University of Moratuwa, Sri Lanka (Jan 2017 - July 2021)
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Work Experience
 **Software Engineer @ Calcey Technologies (_April 2022 - present_)**
 
-***Software Engineer @ Enactor Ltd (February 2021 - March  2022)**
+**Software Engineer @ Enactor Ltd (_February 2021 - March  2022_)**
+
+## Education
+- BSc.(Hons) in Engineering | University of Moratuwa, Sri Lanka (Jan 2017 - July 2021)
 
 ## Projects
 ### Praisal - Resource Management Porta
