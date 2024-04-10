@@ -19,11 +19,13 @@ Skilled in researching, designing, developing, maintaining software, and tacklin
 The project aims to transform resource management for Calcey and beyond through the development of a comprehensive tool tailored to the resource management team's requirements. This platform, designed for seamless allocation of human resources based on project needs, addresses the limitations of the current spreadsheet-based system. Featuring a user-friendly interface and robust functionality, it empowers project managers, directors, HR personnel, and IT administrators to efficiently manage resource requests, fulfillments, and configurations. By streamlining processes and mitigating risks such as data corruption and performance issues, the platform aims to enhance productivity and decision-making capabilities while facilitating smart analytics-driven insights. Ultimately, the goal is to deliver a scalable solution benefiting Calcey internally and offering potential as a customizable product for external organizations seeking optimized resource allocation workflows.
 
 #### Contribution
-• Initiated and executed the research, design, and development of Calcey Resource Management Portal version 1.0.  
-• Engaged in initial research, designing, and development phases.
-• Constructed core domain entities following Domain-Driven Design standards, fostering a more resilient, scalable, and maintainable system architecture.
-• Designed and maintained APIs adhering to CQRS and clean architecture guidelines, leading to streamlined development, improved system scalability, and enhanced maintainability.
-• Engaged in API deployments, ensuring seamless integration and timely releases.
+- Initiated and executed the research, design, and development of Calcey Resource Management Portal version 1.0.
+- Engaged in initial research, designing, and development phases.
+- Constructed core domain entities following Domain-Driven Design standards, fostering a more resilient, scalable, and maintainable system architecture.
+- Designed and maintained APIs adhering to CQRS and clean architecture guidelines, leading to streamlined development, improved system scalability, and enhanced maintainability.
+- Engaged in API deployments, ensuring seamless integration and timely releases.
+##### Technologies and tools
+C#, .NET 6, EFCore, Dapper, PostgreSQL, GitLab, AWS EC2, Jira
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
